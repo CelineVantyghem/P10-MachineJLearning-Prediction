@@ -1,4 +1,4 @@
-# P10-MachineJLearning-Prediction
+# P10-MachineLearning-Prediction
 LogisticRegression / LinearRegression / Kmeans
 
 Détecter des faux billets
